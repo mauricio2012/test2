@@ -1,2 +1,5 @@
 a la claire fontaine
 mon ami Pierro
+
+! première modification du fichier
+
